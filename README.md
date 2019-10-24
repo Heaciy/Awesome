@@ -2,7 +2,7 @@
 Awesome things
 
 ## [Django](https://www.djangoproject.com/)
-### [Django Rest Framework](https://www.django-rest-framework.org/) (on github)(https://github.com/encode/rest-framework-tutorial)
+### [Django Rest Framework](https://www.django-rest-framework.org/) ([on github](https://github.com/encode/rest-framework-tutorial))
 
 ## [DeepLearning](https://github.com/Mikoto10032/DeepLearning)
 
