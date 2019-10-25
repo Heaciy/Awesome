@@ -10,7 +10,7 @@ Awesome things
 + [Django Rest Framework](https://www.django-rest-framework.org/) ([on github](https://github.com/encode/rest-framework-tutorial))
 + [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
 + [django-pure-pagination](https://github.com/jamespacileo/django-pure-pagination)
-+ + [django-newsletter](https://django-newsletter.readthedocs.io/en/latest/) ([on github](https://github.com/dokterbob/django-newsletter))
++ [django-newsletter](https://django-newsletter.readthedocs.io/en/latest/) ([on github](https://github.com/dokterbob/django-newsletter))
 + [django-celery-email](https://github.com/pmclanahan/django-celery-email) (A Django email backend that uses a celery task for sending the email.)
 
 ### [Theme]()
