@@ -40,11 +40,22 @@ Awesome things
 + [《神经网络与深度学习》(邱锡鹏著 Neural Network and Deep Learning)](https://nndl.github.io) ([on github](https://github.com/nndl/nndl.github.io))
 + [《AI算法工程师手册》](http://www.huaxiaozhuan.com/)
 
+### [project]()
++ [Numpy-CNN](https://github.com/Alescontrela/Numpy-CNN)
++ [cnn-from-scratch](https://github.com/vzhou842/cnn-from-scratch)
+
 ## [CS-Notes](https://github.com/CyC2018/CS-Notes)
 
 ## [CS-Books](https://github.com/huihut/CS-Books)
 
-## python books
+## [python]()
+### python package
++ [tqdm](https://pypi.org/project/tqdm/) ([on github](https://github.com/tqdm/tqdm))
++ [numpy](https://docs.scipy.org/doc/numpy/reference/)([numpy.org](https://numpy.org/))
++ [pandas](https://pandas.pydata.org/)([on github](https://github.com/pandas-dev/pandas))
++ [Matplotlib](https://matplotlib.org/)([on github](https://github.com/matplotlib/matplotlib))
++ [gzip](https://docs.python.org/3/library/gzip.html)
+### python books
 + [《Python进阶》(Intermediate Python 中文版)](https://github.com/eastlakeside/interpy-zh)
 
 ## Date Structures and Algorithms
