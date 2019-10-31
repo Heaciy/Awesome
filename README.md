@@ -48,7 +48,7 @@ Awesome things
 
 ## [CS-Books](https://github.com/huihut/CS-Books)
 
-## [python]()
+## [python](https://www.python.org/)
 ### python package
 + [tqdm](https://pypi.org/project/tqdm/) ([on github](https://github.com/tqdm/tqdm))
 + [numpy](https://docs.scipy.org/doc/numpy/reference/)([numpy.org](https://numpy.org/))
