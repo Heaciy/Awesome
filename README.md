@@ -55,6 +55,7 @@ Awesome things
 + [pandas](https://pandas.pydata.org/)([on github](https://github.com/pandas-dev/pandas))
 + [Matplotlib](https://matplotlib.org/)([on github](https://github.com/matplotlib/matplotlib))
 + [gzip](https://docs.python.org/3/library/gzip.html)
++ [you-get](you-get.org)([on github](https://github.com/soimort/you-get))
 ### python books
 + [《Python进阶》(Intermediate Python 中文版)](https://github.com/eastlakeside/interpy-zh)
 
