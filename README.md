@@ -66,6 +66,8 @@ Awesome things
 + [Leetcode](https://github.com/JuiceZhou/Leetcode) （Leetcode题解，Java实现）
 + [Play-with-Data-Structures](https://github.com/houpengfei88/Play-with-Data-Structures) (数据结构课程的C++代码实现)
 
+## System Design Primer
++ [system-design-primer](https://github.com/donnemartin/system-design-primer)
 ## 拓展
 
 ### [interview](https://github.com/huihut/interview)
