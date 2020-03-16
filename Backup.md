@@ -14,11 +14,11 @@
 
 ## others ##
 - [DjangoBlog](https://github.com/liangliangyy/DjangoBlog)
-- [Django2_dailyfresh]()
+- [Django2_dailyfresh](https://github.com/Pad0y/Django2_dailyfresh)
 - [rest-framework-tutorial](https://github.com/encode/rest-framework-tutorial)
 - [django2.0-course](https://github.com/HaddyYang/django2.0-course)
 - [awesome-django-cn](https://github.com/haiiiiiyun/awesome-django-cn)
-- [Chat-Web-App]()
+- [Chat-Web-App](https://github.com/techwithtim/Chat-Web-App)
 
 # C #
 
@@ -39,6 +39,7 @@
 - [scrollup](https://github.com/markgoodyear/scrollup)
 - [jQCloud](https://github.com/lucaong/jQCloud)
 - [featherlight](https://github.com/noelboss/featherlight)
+- [simple-websockets-chat-app](https://github.com/aws-samples/simple-websockets-chat-app)
 
 # Shell #
 - [lamp](https://github.com/teddysun/lamp)
@@ -50,4 +51,3 @@
 - [the-answer-of-Data-Structures-and-Algorithm-Analysis-in-C-in-chinese](https://github.com/daquexian/the-answer-of-Data-Structures-and-Algorithm-Analysis-in-C-in-chinese)
 - [core-algorithm](https://github.com/yidao620c/core-algorithm)
 - [clrs-notes-solutions](https://github.com/HardySimpson/clrs-notes-solutions)
-- [PAT-Advanced-Level](https://github.com/merelydust/PAT-Advanced-Level)
