@@ -25,10 +25,10 @@
 ## Neural Networks ##
 - [darknet](https://github.com/pjreddie/darknet)
 
-#C++#
+# C++ #
 - [PAT-Advanced-Level](https://github.com/merelydust/PAT-Advanced-Level)
 
-#JavaScripts#
+# JavaScripts #
 - [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor)
 - [simditor](https://github.com/mycolorway/simditor)
 - [FlexSlider](https://github.com/woocommerce/FlexSlider)
