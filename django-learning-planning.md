@@ -7,6 +7,7 @@
 + uWSGI
 + Docker
 + djnago-rest-framnework
++ ASGI/WebSocket
 
 ## 前端 ##
 + HTML
@@ -18,7 +19,7 @@
 
 ## 运维 ##
 + 使用C/C++进行优化
-+ 异步
++ 异步/消息队列
 + 分布式
 + 高并发
 + 自动化部署
@@ -35,3 +36,5 @@
 ## 拓展 ##
 + Flask
 + Tornado
++ 内容推荐
++ 融合机器学习/深度学习算法
